@@ -1,6 +1,15 @@
 body {
     font-family: 'Inter', sans-serif;
+    padding: 50px;
 }
 img {
     width: 400px;
+}
+
+p {
+    color: rgb(59, 59, 90);
+}
+
+h1 {
+    color: rgb(35, 100, 100);
 }
