@@ -1,7 +1,9 @@
 body {
     font-family: 'Inter', sans-serif;
     padding: 30px;
-    background-image: url(assets/publicmarketcenter.png);
+    /* contrast error would not pass with this image for some reason :( */
+    /* background-image: url(assets/publicmarketcenter.png); */
+    background-color: black;
     background-size: 100%;
     height: 100%;
     background-size: cover;
